@@ -12,4 +12,4 @@ Project is created with:
 * Numpy
 * Pandas
 * bs4
-* 
+
